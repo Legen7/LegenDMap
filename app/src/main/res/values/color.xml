@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="floral_white">#FFFAF0</color>
+    <color name="white">#ffffffff</color>
+    <color name="title_white">#f0f0f0</color>
+    <color name="dark_gray">#ffa9a9a9</color>
+    <color name="red">#ffff0000</color>
+    <color name="black">#ff000000</color>
+    <color name="light_black">#444444</color>
+    <color name="light_dark">#ededed</color>
+    <color name="yello">#F6B740</color>
+    <color name="deep_purple">#ff6a5acd</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="title_blue">#ff4192e5</color>
+    <color name="unselected_gray">#ff4b4b4b</color>
+    <color name="selected_blue">#ff2d87e3</color>
+
+
+    <color name="section_title">#343434</color>
+    <color name="lightlightgreen">#B0E2DD</color>
+    <color name="lightgreen3">#A8E1DB</color>
+    <color name="bluegreen">#1DA6AB</color>
+    <color name="rightcircle">#47B8AB</color>
+    <color name="rank_text_male">#5DC7D6</color>
+    <color name="light_blue">#47B8AB</color>
+    <color name="lightgreen">#47b8ab</color>
+    <color name="base_information_list_press">#ff1aa3d2</color>
+    <color name="lightblue1">#1077FD</color>
+    <color name="hot_key_words_title_color">#ff4293e6</color>
+    <color name="lightblue">#1077FD</color>
+    <color name="darkblue">#09548A</color>
+    <color name="lightgreen2">#C5E69E</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="click_to_login">#E97422</color>
+    <color name="lightYellow">#fd8f0e</color>
+    <color name="color_price">#FA7501</color>
+    <color name="darkYellow">#F19300</color>
+    <color name="darkYellow2">#F5701D</color>
+    <color name="rank_text_female">#EA69AF</color>
+    <color name="verification_button_normal">#ffde4035</color>
+    <color name="verification_button_press">#ffaa3025</color>
+    <color name="errorcircle">#DE4035</color>
+    <color name="lightred">#E4273F</color>
+    <color name="lightred1">#ff0000</color>
+    <color name="lightred2">#FF5A54</color>
+    <color name="lightred3">#F12F2E</color>
+    <color name="darkred">#980101</color>
+    <color name="simulation_exam_notice_side">#E4E4E4</color>
+    <color name="normalcircle">#EFEFEF</color>
+    <color name="line">#D3D3D3</color>
+    <color name="gray2">#C1C1C2</color>
+    <color name="lightblue2">#A7CBE8</color>
+    <color name="lightgray">#F5F5F5</color>
+    <color name="color_text_light3">#cbcbcb</color>
+    <color name="color_text_light2">#cdcdcd</color>
+    <color name="color_text4">#b0b0b0</color>
+    <color name="color_text2">#777777</color>
+    <color name="gray">#969491</color>
+    <color name="color_text_light">#999999</color>
+    <color name="driving_home_page_text_unchecked">#8C8C8C</color>
+    <color name="home_gray">#6B6B6B</color>
+    <color name="section_title_numbers">#4F4F4F</color>
+    <color name="border_background1">#77777777</color>
+    <color name="reading_top_title_background">#4cb2b2b2</color>
+    <color name="color_text_mid">#666666</color>
+    <color name="color_text1">#444444</color>
+    <color name="color_text_dark">#333333</color>
+    <color name="alpha">#30000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+
+</resources>

@@ -1,4 +1,4 @@
-package com.example.administrator.legendmap;
+package com.legendapp.legendmap;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

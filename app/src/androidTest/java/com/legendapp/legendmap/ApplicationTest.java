@@ -1,4 +1,4 @@
-package com.example.administrator.legendmap;
+package com.legendapp.legendmap;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

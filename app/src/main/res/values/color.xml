@@ -9,6 +9,7 @@
     <color name="black">#ff000000</color>
     <color name="light_black">#444444</color>
     <color name="light_dark">#ededed</color>
+    <color name="pale_green">#c1ffc1</color>
     <color name="yellow">#F6B740</color>
     <color name="lightYellow">#fd8f0e</color>
     <color name="deep_purple">#ff6a5acd</color>

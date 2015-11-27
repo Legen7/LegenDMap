@@ -3,11 +3,23 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/tableLayout">
+        <com.amap.api.maps2d.MapView
+            android:id="@+id/twodMV"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"></com.amap.api.maps2d.MapView>
+
+
+    </FrameLayout>
+
     <TableLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        >
+        android:id="@+id/tableLayout">
         <TableRow
             android:layout_width="match_parent"
             >
@@ -18,7 +30,7 @@
                 android:text="3D"
                 android:textSize="14dp"
                 android:textColor="@color/lightYellow"
-                android:background="@color/"
+                android:background="@color/pale_green"
                 />
             <Button
                 android:id="@+id/twod"
@@ -26,6 +38,7 @@
                 android:text="2D"
                 android:textSize="14dp"
                 android:textColor="@color/lightYellow"
+                android:background="@color/pale_green"
                 />
             <Button
                 android:id="@+id/search"
@@ -33,6 +46,7 @@
                 android:text="搜索"
                 android:textSize="14dp"
                 android:textColor="@color/lightYellow"
+                android:background="@color/pale_green"
                 />
 
         </TableRow>

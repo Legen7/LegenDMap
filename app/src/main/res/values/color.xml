@@ -9,7 +9,8 @@
     <color name="black">#ff000000</color>
     <color name="light_black">#444444</color>
     <color name="light_dark">#ededed</color>
-    <color name="yello">#F6B740</color>
+    <color name="yellow">#F6B740</color>
+    <color name="lightYellow">#fd8f0e</color>
     <color name="deep_purple">#ff6a5acd</color>
     <color name="blue">#ff0000ff</color>
     <color name="title_blue">#ff4192e5</color>
@@ -33,7 +34,6 @@
     <color name="lightgreen2">#C5E69E</color>
     <color name="possible_result_points">#c0ffff00</color>
     <color name="click_to_login">#E97422</color>
-    <color name="lightYellow">#fd8f0e</color>
     <color name="color_price">#FA7501</color>
     <color name="darkYellow">#F19300</color>
     <color name="darkYellow2">#F5701D</color>

@@ -28,25 +28,25 @@
                 android:id="@+id/threed"
                 android:layout_weight="1"
                 android:text="3D"
-                android:textSize="14dp"
+                android:textSize="20dp"
                 android:textColor="@color/lightYellow"
-                android:background="@color/pale_green"
+                android:background="@drawable/corner_light_orange_frame"
                 />
             <Button
                 android:id="@+id/twod"
                 android:layout_weight="1"
                 android:text="2D"
-                android:textSize="14dp"
+                android:textSize="20dp"
                 android:textColor="@color/lightYellow"
-                android:background="@color/pale_green"
+                android:background="@drawable/corner_light_orange_frame"
                 />
             <Button
                 android:id="@+id/search"
                 android:layout_weight="1"
                 android:text="搜索"
-                android:textSize="14dp"
+                android:textSize="20dp"
                 android:textColor="@color/lightYellow"
-                android:background="@color/pale_green"
+                android:background="@drawable/corner_light_orange_frame"
                 />
 
         </TableRow>

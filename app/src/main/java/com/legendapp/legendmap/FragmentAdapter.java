@@ -1,7 +1,6 @@
 package com.legendapp.legendmap;
 
 
-import android.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
@@ -13,17 +12,19 @@ import java.util.ArrayList;
  */
 public class FragmentAdapter extends FragmentPagerAdapter {
 
-    ArrayList<Fragment> list;
-    public FragmentAdapter(FragmentManager fm,ArrayList<Fragment> list) {
+    ArrayList<android.support.v4.app.Fragment> list;
+    public FragmentAdapter(FragmentManager fm,ArrayList<android.support.v4.app.Fragment> list) {
         super(fm);
         this.list=list;
     }
 
+    //指定位置
     @Override
-    public Fragment getItem(int arg0) {
+    public android.support.v4.app.Fragment getItem(int arg0) {
         return list.get(arg0);
     }
 
+    //指定数量
     @Override
     public int getCount() {
         return list.size();
